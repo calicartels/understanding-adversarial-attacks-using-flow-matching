@@ -1,5 +1,3 @@
-# understanding-adversarial-attacks-using-flow-matching
-
 
 # Adversarial Attacks on Flow Matching Models - Technical Documentation
 
