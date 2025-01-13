@@ -80,8 +80,8 @@ def run_attack_analysis():
 ```
 
 ## Visualization Results
-
-### Step 2 Analysis
+### Using the opencv flow ode equations:
+### Step 2 Analysis 
 ![Step 2 Analysis](images/1.png)
 - Original image alongside perturbed state 
 - Attention map showing model focus areas
@@ -92,7 +92,7 @@ def run_attack_analysis():
 - Advanced perturbation state
 - Enhanced attention mapping
 - Increased perturbation magnitude (scale up to 0.09)
-
+### Using the flowmatching model CIFAR10:
 ### Initial State (Step 0)
 ![Initial State](images/3.png)
 - Baseline state before attack
