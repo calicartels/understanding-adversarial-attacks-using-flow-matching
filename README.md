@@ -81,23 +81,28 @@ def run_attack_analysis():
 
 ## Visualization Results
 
-### Step 40 Analysis
-![Step 40 Analysis](step_40.png)
-- Original image alongside perturbed state at step 40
+### Step 2 Analysis
+![Step 2 Analysis](images/1.png)
+- Original image alongside perturbed state 
 - Attention map showing model focus areas
 - Perturbation magnitude revealing attack intensity (scale 0.01-0.08)
 
-### Step 60 Analysis
-![Step 60 Analysis](step_60.png)
+### Step 13 Analysis
+![Step 13 Analysis](images/2.png)
 - Advanced perturbation state
 - Enhanced attention mapping
 - Increased perturbation magnitude (scale up to 0.09)
 
 ### Initial State (Step 0)
-![Initial State](step_0.png)
+![Initial State](images/3.png)
 - Baseline state before attack
 - Initial attention distribution
 - Starting perturbation pattern (scale 0.005-0.045)
+
+### Final State
+![Initial State](images/4.png)
+- Final state before attack
+- Final attention distribution
 
 ## Key Components Breakdown
 
